@@ -89,15 +89,15 @@ header {
 }
 
 a:nth-child(2) {
-    opacity: 0.4;
+    opacity: .4;
 }
 
 .link-header:hover {
-    opacity: 0.8;
+    opacity: .8;
 }
 
 .link-header:active {
-    opacity: 0.4;
+    opacity: .4;
 }
 
 
